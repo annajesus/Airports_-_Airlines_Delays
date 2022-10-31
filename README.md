@@ -4,4 +4,7 @@ During this first group project, my group members and I did exploratory data ana
 
 First, we used Pandas to clean and format our dataset. Next, we created Jupyter notebooks to describe the data exploration and cleanup process. Then, we created Jupyter notebooks to illustrate the final data analysis. We used Matplotlib to create visualizations of our data. Next, we created write-ups summarizing our major findings. 
 
-Then, we prepared a formal 10-minute presentation that covers the following topics: questions that we found interesting and what motivated us to answer them, where and how we found the data that we used to answer these questions, the data exploration and cleanup process, the analysis process, our conclusions (including numerical summaries and visualizations of the summary and the implications of our findings.
+Then, we prepared a formal 10-minute presentation that covers the following topics: questions that we found interesting and what motivated us to answer them, where and how we found the data that we used to answer these questions, the data exploration and cleanup process, the analysis process, our conclusions (including numerical summaries and visualizations of the summary and the implications of our findings. We have included our Jupyter notebook scripts that we used to run our analysis in this folder.
+
+# input_Data
+This folder contains Airline_Delay_Cause.csv, the CSV file that we used during our analysis.
