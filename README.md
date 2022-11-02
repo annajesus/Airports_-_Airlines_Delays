@@ -76,7 +76,7 @@
          - Flights delayed due to National Aviation System Delays: higher in 2019 and 2020 than in 2021 and 2022
       - Implications of these findings: after 2020, passengers were less delayed due to National Aviation System Delays in flights. Airlines were able to         devise a way to lower delays due to this cause. The implications of these findings also indicate that as the years passed, passengers were however          more delayed due to Air Carrier Delays. Airlines were not able to come up with a way to lower delays due to this cause.
 
-      <img width="688" alt="Screen Shot 2022-11-01 at 8 41 52 PM" src="https://user-images.githubusercontent.com/108558769/199368033-ef191e93-d100-4855-8d16-2128ecfd3824.png">
+     <img width="688" alt="Screen Shot 2022-11-01 at 8 41 52 PM" src="https://user-images.githubusercontent.com/108558769/199368033-ef191e93-d100-4855-8d16-2128ecfd3824.png">
     
     
 * 4. Which airline & airport had the greatest delay?
