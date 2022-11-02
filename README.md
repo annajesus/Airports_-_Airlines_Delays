@@ -19,10 +19,16 @@
    - National Aviation System (NAS): Delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as      non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control.
    - Late-arriving aircraft: A previous flight with same aircraft arrived late, causing the present flight to depart late.
     
+    https://user-images.githubusercontent.com/108558769/199366165-a2a55ea7-eda0-4f92-81f6-dd90ee326bac.mp4
+    https://user-images.githubusercontent.com/108558769/199366250-18d00622-d71b-4328-8440-ec7dbe45a9ff.mp4
+    https://user-images.githubusercontent.com/108558769/199366383-a331d9b0-21b3-4f62-8465-7982d2cd5e58.mp4
     https://user-images.githubusercontent.com/108558769/199365758-67bb398b-a7fa-447d-b748-df2620eaca8c.mp4
+    
     
     *1.1 Which month had the highest delays for all of the years?
       - The group plot shows percentage delay for each month over the years. The months of June and July showed had the highest percentages of delays.
+        
+
 
 * 2. Which of those types of delays have the greatest impact?
   - To measure the impact of the delays we used the minutes registered to calculate and indicator of average minutes per type of delay
